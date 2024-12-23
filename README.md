@@ -1,5 +1,8 @@
-## Hi there 👋
+## Omar Mnedas 
 
+**A newbie first year computer science student who plays genshin a lot**
+
+<a href="https://www.linkedin.com/in/omar-mendas-1879a4307/" target="_blank"> <div style="width:100%;height:0;padding-bottom:100%;position:relative;"><iframe src="https://giphy.com/embed/pGn89HIglnSyW5y6Le" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/8bit-fanart-pixelartgif-pGn89HIglnSyW5y6Le">via GIPHY</a></p>></a>
 <!--
 **mendas-cpu/mendas-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
