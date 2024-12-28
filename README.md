@@ -1,4 +1,4 @@
-## Omar Mnedas 
+## Omar Mendas 
 
 **A newbie first year computer science student who plays genshin a lot**
 
